@@ -18,11 +18,11 @@ We'll use GA in NN, instead of backpropagation, we will update weights using GA.
 
 **Files:**
 
-main.py - to start training snake game using genetic algorithm
-snake_game.py - contains logic of creating snake game using pygame
-run_game.py - play snake game using predicted directions from genetic algorithm
-ga.py - contains genetic algorithm functions like crossover, mutation etc
-ffnn.py - contains the functions for calculating the output from feed forward neural network
+1. main.py - to start training snake game using genetic algorithm
+2. snake_game.py - contains logic of creating snake game using pygame
+3. run_game.py - play snake game using predicted directions from genetic algorithm
+4. ga.py - contains genetic algorithm functions like crossover, mutation etc
+5. ffnn.py - contains the functions for calculating the output from feed forward neural network
 
 **Explanation:**
 
