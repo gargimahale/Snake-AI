@@ -1,4 +1,5 @@
-# Snake-GA-
+# Snake-GA
+
 Where Genetic Algorithm (GA) and Neural Network(NN) play the snake game 
 
 The advantage of using GA + NN, is that we don’t need any training data.
