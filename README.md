@@ -34,7 +34,7 @@ Snake game is created with pygame and network architecture with 7 units in the i
 **Creating Initial Population**
 
 Here, I have chosen 50 individuals in the population and each individual is an array of weights of the neural network. Randomly initialize these individuals. 
-`
+```python
 # n_x   no. of input units
 # n_h   no. of units in hidden layer 1
 # n_h2  no. of units in hidden layer 2
@@ -48,7 +48,7 @@ num_weights = n_x*n_h + n_h*n_h2 + n_h2*n_y
 pop_size = (sol_per_pop,num_weights)
 #Creating the initial population.
 new_population = np.random.choice(np.arange(-1,1,step=0.01),size=pop_size,replace=True)
-`
+```
 
 
 
