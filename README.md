@@ -1,4 +1,4 @@
-# Snake-GA
+# Snake-AI
 
 Where Genetic Algorithm (GA) and Neural Network(NN) play the snake game 
 
