@@ -28,9 +28,7 @@ We'll use GA in NN, instead of backpropagation, we will update weights using GA.
 **Explanation:**
 
 **Creating a snake game and deciding neural network architecture**
-Snake game is created with pygame and network architecture with 7 units in the input layer, 3 units in the output layer with ‘softmax’ and used 2 hidden layers one of 9 units and other of 15 units with ‘relu’ as shown below.
-
-![alt text](https://i0.wp.com/theailearner.com/wp-content/uploads/2018/11/Snake_game_with_neural_network_with_3_outputs.png?w=763&ssl=1)
+Snake game is created with pygame and network architecture with 7 units in the input layer, 3 units in the output layer with ‘softmax’ and used 2 hidden layers one of 9 units and other of 15 units with ‘relu’.
 
 **Creating Initial Population**
 
